@@ -1,0 +1,53 @@
+/* google fonts */
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.lavishly-yours-regular {
+  font-family: "Lavishly Yours", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.work-sans-v1 {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+/* first page */
+.portofiloPic{
+  height: 250px;
+  max-width: 250px;
+  object-fit: cover;
+}
+
+.theBtn{
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  text-decoration: none;
+  border-radius: 3px;
+}
+.theBtn:hover{
+  background-color: darkgoldenrod;
+}
+
+.companiesDiv a i{
+  padding: 10px 20px;
+}
+/* CaseStudies */
+.caseStudies .container .row .col img.border{
+  border-width: 2px !important	;
+  box-shadow:0 0 8px !important;
+}
+
+/* Testimonials */
+/* section.testimonials {
+  background-color:black;
+  color: white;
+} */
